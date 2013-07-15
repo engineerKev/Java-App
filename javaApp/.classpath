@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/HackeratiProjects/SqlStuff/mysql-connector-java-5.1.25/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/HackeratiProjects/hyperic-sigar-1.6.4/sigar-bin/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/HackeratiProjects/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
